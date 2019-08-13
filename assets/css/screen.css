@@ -126,7 +126,7 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(0,0,0,0.18);
+    /*background: rgba(0,0,0,0.18);*/
 }
 
 .site-header:after {
@@ -160,14 +160,14 @@ body {
 
 .site-title {
     z-index: 10;
-    margin: 0;
+    margin: 60px 0 0 0;
     padding: 0;
     font-size: 3.8rem;
     font-weight: 700;
 }
 
 .site-logo {
-    max-height: 45px;
+    max-height: 60px;
 }
 
 .site-description {
